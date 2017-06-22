@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Star Wars People 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <h1>
+    Star Wars People
+  </h1>
+  <ul />
+</div>
+`;
