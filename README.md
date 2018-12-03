@@ -9,6 +9,7 @@
   1. Add autocompleting search for people
 - Feel free to show some flair if you feel like it and have the time to do so.
 - Return a zip with your version controlled project via email.
+- _Please do not fork this repo_
 
 ## Prerequisites
 
