@@ -8,7 +8,10 @@
   1. Add pagination UI
   1. Add autocompleting search for people
 - Feel free to show some flair if you feel like it and have the time to do so.
-- Return a zip file with your version controlled project via email. Please DO NOT fork this repository or push your own copy of it to Github. This is to ensure future candidates cannot see and take inspiration from your awesome solution!
+- Return a zip file with your version controlled project via email.  Please
+  **DO NOT** fork this repository or push your own copy of it to Github. This
+  is to ensure future candidates cannot see and take inspiration from your
+  awesome solution!
 
 ## Prerequisites
 
