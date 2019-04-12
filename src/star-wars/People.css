@@ -7,3 +7,16 @@
   align-items: center;
   justify-content: center;
 }
+
+.StarWarsPeople .loading {
+  color: blue;
+  background-color: lightblue;
+  padding: 2em;
+  font-weight: bolder;
+}
+
+.StarWarsPeople .error {
+  color: red;
+  background-color: pink;
+  padding: 2em;
+}
