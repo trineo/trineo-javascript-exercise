@@ -10,7 +10,7 @@
   1. Add pagination UI
   1. Add autocompleting search for people
 - Feel free to show some flair if you feel like and have the time to do so.
-- Return a zip file with your version controlled project via email (please do not fork the repo and do not submit a PR).
+- Return a zip file with your project (**including the `.git` folder**) via email (please do not fork the repo and do not submit a PR).
 
 ## Prerequisites
 
