@@ -27,7 +27,7 @@ export default class People extends React.Component {
     this.setState({ people, error, loading: true })
 
     try {
-      const response = await fetch('https://swapi.co/api/people/')
+      const response = await fetch('https://swapi.dev/api/people/')
       if (!response.ok) {
         new Error('Unable to fetch people')
       }
